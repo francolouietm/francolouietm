@@ -12,7 +12,7 @@ I'm a frontend developer from the Philippines, building banking, wealth manageme
 
 ### What I'm currently into, outside of work
 March 2024 - Participated in 10K run in support of Women's Month
-![Women's Run](https://francolouietm.github.io/assets/photo.JPG)
+![2024 Women's Run](https://francolouietm.github.io/assets/photo.JPG)
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=flmagpusao&color=black&logo=linkedin&logoColor=lightblue&style=for-the-badge)](https://www.linkedin.com/in/flmagpusao/)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=flmagpusao&color=0077b5&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/flmagpusao/)
