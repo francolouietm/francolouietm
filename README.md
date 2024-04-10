@@ -15,4 +15,4 @@ March 2024 - Participated in 10K run in support of Women's Month
 ![Women's Run](https://francolouietm.github.io/assets/photo.JPG)
 
 #### Connect with me
-[![LinkedIn](https://img.shields.io/static/v1?label=flmagpusao&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/flmagpusao/)
+[![LinkedIn](https://img.shields.io/static/v1?color=0077B5&label=flmagpusao&logo=linkedin&logoColor=0077B5&style=for-the-badge)](https://www.linkedin.com/in/flmagpusao/)
