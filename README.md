@@ -1,15 +1,18 @@
 ### 👋 Hi, I’m Franco Magpusao!
 ------
 
-I'm a frontend developer based in Metro Manila🇵🇭, building banking, wealth management, and other financial apps for Accenture Wealth Platform Services.
+I'm a frontend developer from the Philippines, building banking, wealth management, and other financial apps for Accenture Strategy & Consulting.
 
-- 🔭 I'm currently creating interactive wealth management portal experiences for a leading wealth manager in the UK.
-- 👨‍💻 I specialize in frontend development, mainly using Javascript, Angular, CSS (SASS, Bootstrap), HTML, PHP (WordPress, Moodle), and MySQL.
-- 📜 I’m a certified [Backbase Frontend Engineer](https://francolouietm.github.io/assets/Magpusao-Backbase-Frontend-Engineer-CXS-WA3-Certificate.pdf).
-- 🌱 I’m expanding my knowledge in [Cloud](https://www.qwiklabs.com/public_profiles/691ac020-cdbc-48ff-9c34-79073e592f50), [Data Science](https://www.coursera.org/account/accomplishments/certificate/SQRVNKN6DVLG), and Android development.
-- ❤️‍🔥 I'm reviving my interest in open source and hoping to contribute on my free time.
+#### Languages
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francolouietm&show_icons=true&theme=dark)
+#### Frameworks & Tools
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-####  Connect with me 🔗
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flmagpusao/)
+#### What I'm currently into, outside of work
+March 2024 - Participated in 10K run in support of Women's Month
+![Women's Run](https://francolouietm.github.io/assets/photo.JPG)
+
+#### Connect with me
+[![LinkedIn Badge](https://img.shields.io/twitter/url?color=lightblue&label=flmagpusao&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fflmagpusao)](https://www.linkedin.com/in/flmagpusao/)
+
