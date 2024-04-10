@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m Franco Magpusao!
-------
 ![francolouietm](https://komarev.com/ghpvc/?username=francolouietm&color=green)
 
 I'm a frontend developer from the Philippines, building banking, wealth management, and other financial apps for Accenture Strategy & Consulting.
