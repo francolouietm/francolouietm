@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Franco Magpusao!
 ------
-[francolouietm](https://komarev.com/ghpvc/?username=francolouietm&color=green)
+![francolouietm](https://komarev.com/ghpvc/?username=francolouietm&color=green)
 
 I'm a frontend developer from the Philippines, building banking, wealth management, and other financial apps for Accenture Strategy & Consulting.
 
@@ -15,4 +15,4 @@ March 2024 - Participated in 10K run in support of Women's Month
 ![Women's Run](https://francolouietm.github.io/assets/photo.JPG)
 
 #### Connect with me
-[![LinkedIn](https://img.shields.io/static/v1?label=flmagpusao&color=lightblue&logo=linkedin&logoColor=lightblue)](https://www.linkedin.com/in/flmagpusao/)
+[![LinkedIn](https://img.shields.io/static/v1?label=flmagpusao&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/flmagpusao/)
