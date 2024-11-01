@@ -11,7 +11,7 @@ I'm a frontend developer from the Philippines, building banking, wealth manageme
 
 ### What I did last month *<sub><sup>Just a random personal update</sup></sub>*
 October 2024 - Visited Nagoya 🇯🇵 and tried their delectable specialty, miso nikomi udon 🍜
-![Oct 2024 - Nagoya](https://francolouietm.github.io/assets/2024-oct.JPG)
+![Oct 2024 - Nagoya](https://francolouietm.github.io/assets/2024-10-nagoya.JPG)
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=flmagpusao&color=0077b5&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/flmagpusao/)
