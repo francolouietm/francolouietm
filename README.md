@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Franco Magpusao!
 ![francolouietm](https://komarev.com/ghpvc/?username=francolouietm&color=green)
 
-I'm a frontend developer from the Philippines, building banking, wealth management, and other financial apps for Accenture Strategy & Consulting.
+I'm a frontend developer/delivery consultant from the Philippines, building banking, wealth management, and other financial apps for Accenture Wealth Platform Services.
 
 ### Languages
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
